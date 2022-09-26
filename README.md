@@ -6,4 +6,4 @@ Download the project file and save it locally. Navigate to the directory via the
 
     dotnet run
     
-The app should run. print the output and then stop.
+The app should run, print the output and then stop.
